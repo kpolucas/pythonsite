@@ -1,1 +1,3 @@
-# pythonsite
+- Ver que es WSGI
+- Repasar decorators
+- Python with

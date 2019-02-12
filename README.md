@@ -1,3 +1,6 @@
-- Ver que es WSGI
-- Repasar decorators
-- Python with
+PROXIMAMENTE
+
+index.py
+about.py
+api.py
+beautifullsup.py

@@ -1,0 +1,8 @@
+#store git user and password
+git config credential.helper store
+
+#start virtualenv
+virtualenv -p python3 siteenv
+
+#regex
+https://www.tutorialspoint.com/python3/python_reg_expressions.htm

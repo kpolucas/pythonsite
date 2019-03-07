@@ -8,3 +8,6 @@ virtualenv -p python3 siteenv
 https://www.tutorialspoint.com/python3/python_reg_expressions.htm
 re.findall(r"(\w+@\w+\.\w+\.*\w*)",line) #mails matcher no machea mail con -
 https://docs.python.org/2/library/re.html
+
+#jinja django simple form example
+https://medium.com/@mikaelagurney/add-dynamic-components-to-your-html-templates-using-form-s-flask-and-jinja-59b4169ec3e1

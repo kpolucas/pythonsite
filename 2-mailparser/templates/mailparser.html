@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Mailparser</title>
+ </head>
+ <body>
+   <p> Ingrese texto con direcciones de email </p>
+<form method="POST" action="/mailparser">
+   Texto:<br><textarea name="texto_con_emails" cols="40" rows="5"></textarea><br>
+     <input type="submit" value="Submit">
+</form>
+{% if emails %}
+Lista de correos: <br>
+{% endif %}
+{% for email in emails %}
+{{email}} <br>
+{% endfor %}
+</body>
+</html>

@@ -12,7 +12,20 @@ https://docs.python.org/2/library/re.html
 #jinja django simple form example
 https://medium.com/@mikaelagurney/add-dynamic-components-to-your-html-templates-using-form-s-flask-and-jinja-59b4169ec3e1
 
+<<<<<<< HEAD
 # toqueteo de archivos
 https://docs.python.org/3/library/shutil.html
 
 #
+=======
+# Natural languaje
+https://towardsdatascience.com/gentle-start-to-natural-language-processing-using-python-6e46c07addf3
+
+#Beautifull soup
+https://www.dataquest.io/blog/web-scraping-tutorial-python/
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+https://www.youtube.com/watch?v=F1kZ39SvuGE
+
+#pip how to package
+https://python-packaging.readthedocs.io/en/latest/minimal.html
+>>>>>>> c66eb96ac837d508b8b0aa9744548eba33c7df35

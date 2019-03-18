@@ -7,3 +7,7 @@ Ideas
 3. simple pygame
 
 4. Empaquetado, pip, easy_install
+
+5. A simple api client a simple api server
+
+6. Full site django

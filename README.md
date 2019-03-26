@@ -8,4 +8,6 @@ Ideas
 
 4. Empaquetado, pip, easy_install
 
-5. Python also has some libraries for Natural Language Processing. Get articles from 3 different top news sites on a particular topic (business sector, product, person, etc) and do a language analysis of it? This could be useful for marketing and product development teams.
+5. A simple api client a simple api server
+
+6. Full site django
